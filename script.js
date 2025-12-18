@@ -1,5 +1,5 @@
 // At the top of script.js
-const API_URL = 'http://20.164.17.30:5000/api'; // Change to your backend URL
+const API_URL = 'https://https://xmas-gift.onrender.com/api'; // Change to your backend URL
 let sessionId = localStorage.getItem('sessionId') || 'session_' + Date.now() + '_' + Math.random().toString(36);
 localStorage.setItem('sessionId', sessionId);
 
