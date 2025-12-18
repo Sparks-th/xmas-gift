@@ -25,10 +25,10 @@ const corsOptions = {
     
     // Whitelist of allowed origins
     const allowedOrigins = [
-      'http://localhost:3000',
-      'http://20.164.17.30:3333',
-      'https://yourdomain.com',
-      'https://www.yourdomain.com'
+      // 'http://localhost:3000',
+      // 'http://20.164.17.30:3333',
+      // 'https://yourdomain.com',
+      'https://xmas-gift.nett.to'
       // Add your actual frontend domain here
     ];
     
