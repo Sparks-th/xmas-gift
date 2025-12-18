@@ -27,7 +27,7 @@ const corsOptions = {
     const allowedOrigins = [
       // 'http://localhost:3000',
       // 'http://20.164.17.30:3333',
-      // 'https://yourdomain.com',
+      'https://xms-bknd.vercel.app',
       'https://xmas-gift.nett.to'
       // Add your actual frontend domain here
     ];
